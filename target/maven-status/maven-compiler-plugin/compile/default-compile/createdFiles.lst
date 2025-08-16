@@ -1,7 +1,5 @@
+com\pages\LoginPage.class
 com\qa\factory\Driverfactory.class
 com\qa\util\ConfigReader.class
-.cucumber\cucumber.glue.tmp
-com\qa\util\ElementsUtil.class
-.cucumber\cucumber.stepDefinitions.tmp
-com\pages\LoginPage.class
 com\qa\util\Constants.class
+com\qa\util\ElementsUtil.class
