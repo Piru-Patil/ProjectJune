@@ -26,9 +26,9 @@ public class Driverfactory {
 
 		System.out.println("browser value is: " + browser);
 
-		if (browser.equals("edge")) {
-			WebDriverManager.edgedriver().setup();
-			tlDriver.set(new EdgeDriver());
+		if (browser.equals("chrome")) {
+			WebDriverManager.chromedriver().setup();
+			tlDriver.set(new ChromeDriver());
 		} else if (browser.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
 			tlDriver.set(new FirefoxDriver());

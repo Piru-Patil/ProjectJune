@@ -1,5 +1,5 @@
-com\pages\LoginPage.class
 com\qa\factory\Driverfactory.class
-com\qa\util\ConfigReader.class
 com\qa\util\Constants.class
+com\qa\util\ConfigReader.class
 com\qa\util\ElementsUtil.class
+com\pages\LoginPage.class
